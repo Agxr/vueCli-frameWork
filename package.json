@@ -16,7 +16,7 @@
     "mockdev": "npm run mock & npm run dev"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "lib-flexible": "^0.3.2",
     "mint-ui": "^2.2.13",
     "node-sass": "^4.7.2",
